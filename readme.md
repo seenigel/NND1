@@ -1,5 +1,7 @@
 # NND1 Data Journalism Overview
 
+## [http://bit.ly/NND1-2017](http://bit.ly/NND1-2017)
+
 ## Who am I?
 
 Nigel Chiwaya, Graphics Reporter for the Wall Street Journal
@@ -43,6 +45,8 @@ When done well, data stories can very effectively answer the following questions
 - [Sheldon Silver's Secret Money Trail](https://www.dnainfo.com/new-york/20150122/lower-east-side/sheldon-silver-be-arrested-thursday-on-corruption-charges-report-says)
 
 ## So What is Data?
+Data's the paper trail. It's the forms that people fill out when to [register their new dog with the city](resources/vet-doglicense-form.pdf). It's the Birth certificate information
+
 Your first stop for data is traditionally the government. They're usually mandated by law to keep track of various statistics and often they'll have it published on their website. So think about the type of data you want to find, and then think about the government agency that would have it.
 
 - Schools: [NYC Department of Education](http://schools.nyc.gov/Accountability/data/default.htm)
@@ -51,17 +55,13 @@ Your first stop for data is traditionally the government. They're usually mandat
 - Traffic: [NYC Department of Transportation](http://www.nyc.gov/html/dot/html/about/datafeeds.shtml)
 - Subways, buses: [MTA](http://web.mta.info/nyct/facts/ridership/index.htm)
 
-Data's the paper trail. It's the forms that people fill out when to [register their new dog with the city](resources/vet-doglicense-form.pdf). It's the Birth certificate information
-
-## Where do we find it?
-
 
 New York City actually has a wealth of data uploaded to a website called [NYC Open Data](http://nycopendata.socrata.com). At Open Data you can find:
 
-- Taxi Pickups
-- Car Crashes
-- 311 Complaints
-- Restaurant Inspections
+- [Taxi Pickups](https://nycopendata.socrata.com/browse?q=taxi)
+- [Car Crashes](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95/data)
+- [311 Complaints](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data)
+- [Restaurant Inspections](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59)
 - And much, much more.
 
 
