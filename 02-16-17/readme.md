@@ -30,6 +30,43 @@ There are a couple of key concepts to know when it comes to spreadsheets.
 For most spreadsheets, the first row contains **Headers**, which are basically just descriptions of what's included. And each row is usually a seperate instance of data.
 
 ## Functions
-=SUM
+Like mentioned above, functions are little instructions that you can use to quickly do math, or format text.
 
-=Average
+Functions usually have the following syntax:
+
+**=FUNCTION_NAME(First Cell, Second Cell)**
+
+Take for example the screenshot below:
+
+![sum1](sum1.png)
+
+If I wanted to add the values A2 and B2, I would use the **SUM** function and write:
+
+**=SUM(A2, B2)**
+
+![sum2](sum2.png)
+
+You can also quickly add up a range of numbers by writing **=SUM(First Cell:Last Cell)**
+
+## Other Common Functions:
+
+- =AVERAGE: This lets you get the average of a group of numbers
+- =PRODUCT: Lets you multiply numbers
+- =PROPER: Turns WiErD and SHOUTY text into properly formatted text
+
+## Percent Change 
+To find out how two numbers have changed, you can calcuate the percent change. The formula is
+- **=((new -old)/old)**
+
+## Further Reading
+- Common Excel Functions
+- Excel Tricks for Journalists
+
+## Questions?
+
+Email or call me!
+- nchiwaya@gmail.com
+- 347-901-9095
+- 
+## Before Next Session:
+Think about 
