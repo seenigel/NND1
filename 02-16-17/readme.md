@@ -59,8 +59,7 @@ To find out how two numbers have changed, you can calcuate the percent change. T
 - **=((new -old)/old)**
 
 ## Further Reading
-- Common Excel Functions
-- Excel Tricks for Journalists
+- [Common Excel Functions](../resources/CommonFormulasFunctions.pdf)
 
 ## Questions?
 
@@ -69,4 +68,4 @@ Email or call me!
 - 347-901-9095
 - 
 ## Before Next Session:
-Think about 
+Read a data-based news story and see if you can track down the data source. Email me your finding (nchiwaya@gmail.com) & cc. Kia (gregoryk@newschool.edu)
