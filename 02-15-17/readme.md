@@ -27,5 +27,9 @@ There are a couple of key concepts to know when it comes to spreadsheets.
 - Each little spreadsheet box is called a **cell.** Cells each have their own unique ID number that comes from the **Column Letter** and the **Row Number**. So the very first cell is named A1. The one to the right of it is named B1. The one below A1 is A2.
 - Little section below the toolbar is called the **Formula Bar**. It displays the contents of the cell you've clicked, and it's also where you can write **functions,** which are awesome little commands that you can use to do cool things to the information in your spreadsheet.
 
-## Let's get started
+For most spreadsheets, the first row contains **Headers**, which are basically just descriptions of what's included. And each row is usually a seperate instance of data.
 
+## Functions
+=SUM
+
+=Average
