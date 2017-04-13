@@ -18,11 +18,11 @@ nchiwaya@gmail.com
 
 ## Session Overviews
 - **02/14/2017**:  Overview 
-	- What is data journalism? 
-	- Where can you find data?
-	-  How can you identify patterns in it?
-	
-- **03/16/2017**: Tools of the trade: using several free websites and services to take data and turn it into something that readers can understand.
+ - What is data journalism? 
+ - Where can you find data?
+ - How can you identify patterns in it?
+
+- **04/12/2017**: Tools of the trade: using several free websites and services to take data and turn it into something that readers can understand.
 
 - **04/27/2017**: Final project pitch week
 

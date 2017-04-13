@@ -66,6 +66,3 @@ To find out how two numbers have changed, you can calcuate the percent change. T
 Email or call me!
 - nchiwaya@gmail.com
 - 347-901-9095
-- 
-## Before Next Session:
-Read a data-based news story and see if you can track down the data source. Email me your finding (nchiwaya@gmail.com) & cc. Kia (gregoryk@newschool.edu)
