@@ -47,8 +47,8 @@ This free tool does one thing: it takes two images and puts them on top of each 
 
 **Demo time**: I've got a photoshop of a cat that's wearing a hat. Copy the two hyperlinks below and use them to create a slider of the cat with and without the hat.
 
-Before: https://github.com/seenigel/dataviz-toolkit/blob/master/data/image-slider/cat_left.jpg
-After: https://github.com/seenigel/dataviz-toolkit/blob/master/data/image-slider/cat_right.jpg
+- Before: http://www.nigelchiwaya.com/wp-content/uploads/2017/04/cat_left.jpg
+- After: http://www.nigelchiwaya.com/wp-content/uploads/2017/04/cat_right.jpg
 
 
 Other tools
