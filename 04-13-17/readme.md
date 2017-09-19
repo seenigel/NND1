@@ -69,4 +69,3 @@ Carto is a website that lets you take data with geographic data (latitude and lo
 # [SoundciteJS](http://soundcite.knightlab.com/)
 
 This is a free tool that lets you embed a sound clip inside text. The user then hears the audio when they click. (Think of it like a hyperlink for sound.)
-

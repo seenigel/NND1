@@ -73,4 +73,3 @@ Other data sources include:
 ## Things to remember
 - Always check your data. Make sure it's correct. Talk to experts in the subject, ask them if what you're seeing makese sense.
 - You're still a reporter. Data is just another source.
-
