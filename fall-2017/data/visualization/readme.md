@@ -23,7 +23,7 @@ Most of the time, if you've got numerical information, the most straightforward 
 
 Microsoft Excel and Google sheets both have built-in chart making tools, but today we'll be using **Datawrapper**, a website built for beginners that lets you make bar charts, pie charts, data tables, and country-level maps.
 - It's very easy to use. All you do is copy and paste in data from your spreadsheet and it will walk you through the steps to produce your chart or graphic.
-- When you're finished, Datawrapper gives you an *embed code* (a chunk of web code) that will let you display the graphic on a website.
+- When you're finished, Datawrapper gives you a link to the chart that you can then put in your story. (And if you're super fancy, you can take a screenshot of the chart and hyperlink **that**.)
 
 **Demo time**: Using datawrapper, let's create a bar graph of rodent complaints by zip code and a line graph of median rents in NYC boroughs since 2012.
 - <a href="https://www.datawrapper.de" target="blank">Datawrapper Website</a>
@@ -35,6 +35,7 @@ If your data isn't numerical (let's say you've got a bunch of photographs, or au
 
 - Make a map story with Storymap.js
 - Create a before/after slider with Juxstapose.js
+
 
 # [StorymapJS](https://storymap.knightlab.com/)
 ![StorymapJS Screenshot](images/storymap.png)
@@ -53,7 +54,7 @@ Storymap is a totally free website that lets you mark locations on a map and giv
 This free tool does one thing: it takes two images and puts them on top of each other so that readers can compare them by swiping back and forth. 
 - Great for showing a dramatic or subtle change
 - This is most often used for before-and-after comparisons of the same location.
-- When you're finished, Juxstapose gives you an embed code.
+- When you're finished, Juxstapose gives you a link to the slider.
 
 **Demo time**: I've got a photoshop of a cat that's wearing a hat. Copy the two hyperlinks below and use them to create a slider of the cat with and without the hat.
 
@@ -80,7 +81,13 @@ Carto is a website that lets you take data with geographic data (latitude and lo
 
 This is a free tool that lets you embed a sound clip inside text. The user then hears the audio when they click. (Think of it like a hyperlink for sound.) 
 
+## To Wrap Up
+- Think about what type of information you have, and think what's the best way to show it. (Sometimes the best way is to just put it in the text of the story!)
+- You don't have to limit yourself to numbers. Remember that data is transcripts, data is photographs, data is locations.
+
 
 ## What's Next?
 
-So now you've got the basics on how to analyze and visualize information. But we still need to think about what's the best way to present your story
+So now you've got the basics on how to analyze and visualize information. But we still need to think about what's the best way to present your story. (Because mobile readers might not want to scroll through really long lists, and desktop users never want to pan sideways.)
+
+Next month you're going to learn to start thinking like a news designer.
