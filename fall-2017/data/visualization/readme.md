@@ -26,6 +26,7 @@ Microsoft Excel and Google sheets both have built-in chart making tools, but tod
 - When you're finished, Datawrapper gives you an *embed code* (a chunk of web code) that will let you display the graphic on a website.
 
 **Demo time**: Using datawrapper, let's create a bar graph of rodent complaints by zip code and a line graph of median rents in NYC boroughs since 2012.
+- <a href="https://www.datawrapper.de" target="blank">Datawrapper Website</a>
 - <a href="https://docs.google.com/spreadsheets/d/1W5cYR7_q62ZahBCikfJ3rYe4Dsdb-eAp0pXImPRmNg0/edit?usp=sharing" target="blank">Sample Data</a>
 - Datawrapper asks you to make an account, but for now you can use my dummy account. **username:** nnddata@gmail.com, **password**: dataisgreat
 
@@ -34,7 +35,6 @@ If your data isn't numerical (let's say you've got a bunch of photographs, or au
 
 - Make a map story with Storymap.js
 - Create a before/after slider with Juxstapose.js
-- Build a Timeline with Timeline JS
 
 # [StorymapJS](https://storymap.knightlab.com/)
 ![StorymapJS Screenshot](images/storymap.png)
@@ -80,6 +80,7 @@ Carto is a website that lets you take data with geographic data (latitude and lo
 
 This is a free tool that lets you embed a sound clip inside text. The user then hears the audio when they click. (Think of it like a hyperlink for sound.) 
 
+
 ## What's Next?
 
-So now you've got the basics on how to analyze and visualize information. But we still need to
+So now you've got the basics on how to analyze and visualize information. But we still need to think about what's the best way to present your story
