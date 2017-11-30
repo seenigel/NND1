@@ -7,7 +7,7 @@ Okay, so you're getting to the end of the semester! You've learned how to identi
 
 ## What does it mean to design for news?
 
-Today's internet is a fairly uniform place. Most websites look the same. Which means most news stories visually look the same. (Don't believe me? Check out this gif I made.)
+Today's internet is a fairly uniform place. Most websites look the same. Which means most news stories visually look the same. 
 
 Because of this, one of the most effective ways to help your story get read is to package it in a unique, different, or attractive way.
 
