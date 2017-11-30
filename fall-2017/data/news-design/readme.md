@@ -1,7 +1,7 @@
 # NND: Designing for News
 **AKA: You did all this great reporting, now let's make sure that people read it.**
 
-Permalink to today's notes: 
+Permalink to today's notes: http://bit.ly/newsdesign1
 
 Okay, so you're getting to the end of the semester! You've learned how to identify newsworthy events, how to talk to sources, how to find data, how to analyze it and how to visualize it. Today we're going to talk about designing for news.
 
