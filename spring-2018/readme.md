@@ -67,7 +67,7 @@ Other data sources include:
 	- [StreetEasy](http://streeteasy.com/blog/download-data/), a site where you can list apartment rentals and sales, [has tons of data on apartment prices](http://streeteasy.com/blog/download-data/)
     - The [Straphangers Campaign](https://www.straphangers.org/) is a subway advocacy group that publishes annual reports on the state of the subway.
 
-## Exercise Times
+## Exercise Time
 Click the link below to open a section of the Straphangers Campaign's most recent subway report card, where they rate all of New York's Subway lines from best to worst across a bunch of different metrics.
 
 Split into groups, take a look at the the information in the report, and brainstorm three story ideas.
