@@ -1,10 +1,10 @@
 # NND1 Data Journalism Overview
 
-## [http://bit.ly/NND1-fall-2017](http://bit.ly/NND1-fall-2017)
+## [http://bit.ly/nnd1spring18](http://bit.ly/nnd1spring18)
 
-## Who am I?
+## Who is this guy?
 
-Nigel Chiwaya, Graphics Reporter for the Wall Street Journal. I'm also your data and design embed, and I'll be showing you how to find stories in numbers and how to present your work so that it's appealing.
+Hi! I'm Nigel Chiwaya, Graphics Reporter for the Wall Street Journal. I'm also your data and design team member, and I'll be showing you how to find stories in data and how to present your work so that it's appealing to readers.
 
 - nchiwaya@gmail.com
 - 347-901-9095
@@ -24,7 +24,7 @@ Throughout the semester I’ll be updating this with new tools, tips and notes.
 It's a different way of telling the news, one that relies less on anecdotes and more on measurable facts and statistics.
 
 When done well, data stories can very effectively answer the following questions:
-- [What's happening right now?]( https://www.nytimes.com/interactive/2017/09/18/world/americas/hurricane-maria-tracking-map.html)
+- [What's happening right now?](https://www.nytimes.com/interactive/2017/09/18/world/americas/hurricane-maria-tracking-map.html)
 - 
 - [What has happened in the past?](https://patch.com/new-york/heights-dumbo/new-yorks-most-dangerous-intersection-brooklyn-study)
 - 
@@ -34,7 +34,7 @@ When done well, data stories can very effectively answer the following questions
 
 
 
-## So What is Data?
+## So what is data?
 Data's the paper trail. 
 - It's the forms that people fill out when to [register their new dog with the city](https://www1.nyc.gov/assets/doh/downloads/pdf/vet/vet-doglicense-form.pdf). - [Example](https://www.nytimes.com/interactive/2018/02/08/realestate/dogs-of-new-york.html)
 - It's the parking ticket you got when you were late getting back to the meter.
@@ -42,7 +42,7 @@ Data's the paper trail.
 - It’s the transcripts or video tapes of public meetings.
 - It’s the study that a university, or laboratory or think tank has been conducting.
 
-
+## Where do you find data?
 Your first stop for data is *traditionally* the government. They're usually mandated by law to keep track of various statistics and often they'll have it published on their website. So think about the type of information you want, and then think about the government agency that would have it.
 
 - Schools: [NYC Department of Education](http://schools.nyc.gov/Accountability/data/default.htm)
@@ -68,6 +68,14 @@ Other data sources include:
 	- NYU’s Furman Center [keeps great data on neighborhoods]( http://furmancenter.org/neighborhoods) 
 - For-profit companies, especially today’s modern, web-centric companies. 
 	- [StreetEasy](http://streeteasy.com/blog/download-data/), a site where you can list apartment rentals and sales, [has tons of data on apartment prices](http://streeteasy.com/blog/download-data/)
+    - The [Straphangers Campaign](https://www.straphangers.org/) is a subway advocacy group that publishes annual reports on the state of the subway.
+
+## Exercise Times
+Click the link below to open a section of the Straphangers Campaign's most recent subway report card, where they rate all of New York's Subway lines from best to worst across a bunch of different metrics.
+
+Split into groups, take a look at the the information in the report, and brainstorm three story ideas.
+
+- [Subway Report Card](StateoftheSubways2016.pdf)
 
 ## Things to remember
 - Always check your data. Make sure it's correct. Talk to experts in the subject, ask them if what you're seeing makes sense.
