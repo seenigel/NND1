@@ -25,11 +25,8 @@ It's a different way of telling the news, one that relies less on anecdotes and 
 
 When done well, data stories can very effectively answer the following questions:
 - [What's happening right now?](https://www.nytimes.com/interactive/2017/09/18/world/americas/hurricane-maria-tracking-map.html)
-- 
 - [What has happened in the past?](https://patch.com/new-york/heights-dumbo/new-yorks-most-dangerous-intersection-brooklyn-study)
-- 
 - [What's changed or different?](https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html#New_York)
-- 
 - [How widespread, common, or rare is something?](https://www.dnainfo.com/new-york/20170306/upper-east-side/parking-tickets-department-of-finance-nypd-renthop-driving)
 
 
