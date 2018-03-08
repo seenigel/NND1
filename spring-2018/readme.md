@@ -1,7 +1,7 @@
 # NND1 Data Journalism Overview
 
 ## [http://bit.ly/nnd1spring18](http://bit.ly/nnd1spring18)
-
+Session 2: Analyzing data
 ## Who is this guy?
 
 Hi! I'm Nigel Chiwaya, Graphics Reporter for the Wall Street Journal. I'm also your data and design team member, and I'll be showing you how to find stories in data and how to present your work so that it's appealing to readers.
