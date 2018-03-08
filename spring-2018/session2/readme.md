@@ -52,8 +52,6 @@ Both commands can be accessed by highlighting your column header and then clicki
 
 ![Filter Icon](filter.png)
 
-
-
 One you do that you'll see little upside-down triangles next to each column header. Clicking a triangle will open a up a little box that gives you the option to sort the spreadsheet and filter out views.
 
 ![filter box](filter_box.png)
