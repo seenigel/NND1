@@ -1,5 +1,5 @@
 # Session 2: Working with Data
-Permalink to session 2:
+
 Link back to Session 1: [http://bit.ly/nnd1spring18](http://bit.ly/nnd1spring18)
 
 Okay, so in the previous session we went over what data is and how you can use to strengthen your reporting. Today we're going to look at how to analyize the data we find. Because ofthe data's goign to be a mess, and it's up to us to make sense of it, find patterns and find stories.
