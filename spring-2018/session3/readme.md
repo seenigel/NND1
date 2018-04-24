@@ -1,5 +1,5 @@
 # NND1 News Design
-http://bit.ly/NND1-newsdesign
+http://bit.ly/nnd1-newsdesign
 
 Okay, in previous sessions we've established how data and public records can enhance your reporting and we've analyzed data to find stories in numbers. Today we're taking a break from numbers to talk about another important aspect of news: story design.
 
@@ -15,8 +15,9 @@ Here are two front pages from Sept. 12, 2001, the day after the World Trade Cent
 Which front page is more likely to grab your attention? Why?
 
 Here's a more recent example, showing the movements of a man infected with the ebola virus around New York City.
--<a href="http://www.nydailynews.com/new-york/ebola-patient-dr-craig-spencer-city-timeline-article-1.1986708" target="blank">New York Daily News</a>
--<a href="https://www.nytimes.com/interactive/2014/10/23/nyregion/new-york-city-ebola-patient-timeline-map.html" target="blank">New York Times</a>
+- <a href="http://www.nydailynews.com/new-york/ebola-patient-dr-craig-spencer-city-timeline-article-1.1986708" target="blank">New York Daily News</a>
+- <a href="https://www.nytimes.com/interactive/2014/10/23/nyregion/new-york-city-ebola-patient-timeline-map.html" target="blank">New York Times</a>
+
 Which story is easier to understand? Why?
 
 *Story design is about determining the strongest or most important part of your story and presenting it to readers in a clearly accessible or memorable way.*
@@ -30,19 +31,19 @@ You'll kind of know it from your reporting. It's the part of the story that you 
 If you can't figure it out, just ask yourself: "What's the point of the my story? What do I really want people to know?" That will lead you in the right direction.
 
 Another example: 
--<a href="http://www.dnainfo.com/new-york/20150316/far-rockaway/are-you-chronically-late-try-our-mayor-de-blasio-lateness-excuse-generator/" target="blank">DNAinfo Mayoral Excuse Machine</a>
--The point we wanted to show with this story was that the mayor had a bunch of excuses for being late.
+- <a href="http://www.dnainfo.com/new-york/20150316/far-rockaway/are-you-chronically-late-try-our-mayor-de-blasio-lateness-excuse-generator/" target="blank">DNAinfo Mayoral Excuse Machine</a>
+- The point we wanted to show with this story was that the mayor had a bunch of excuses for being late.
 
 Once you're figured out what your strongest element is, now you can think about how to present it.
 
--If you strongest element is a quote, you can use a *pull quote**.
+- If your strongest element is a quote, you can use a **pull quote**.
 <img src="http://www.htmldog.com/figures/pullquote.png" alt="pullquote"/>
 
--If you strongest element is a photo, make that photo large and place it prominently in the story.
+- If you strongest element is a photo, make that photo large and place it prominently in the story.
 
-- If your strongest element is a bunch of data, put it into a chart.
+- If your strongest element is a bunch of data, put it into a **chart**.
 
-- If it's a bunch of locations, put them on a map.
+- If it's a bunch of locations, **put them on a map**.
 
 ## More on Charts
 
@@ -63,7 +64,7 @@ Most of the time, if you've got numerical information, the most straightforward 
 -https://datawrapper.de
 ![Datawrapper Screenshot](images/datawrapper.png)
 
-*Datawrapper** is a website built for beginners that lets you make bar charts, pie charts, data tables, and country-level maps.
+- *Datawrapper** is a website built for beginners that lets you make bar charts, pie charts, data tables, and country-level maps.
 
 - It's very easy to use. All you do is copy and paste in data from your spreadsheet and it will walk you through the steps to produce your chart or graphic.
 - When you're finished, Datawrapper gives you a link to the chart that you can then put in your story. (And if you're super fancy, you can take a screenshot of the chart and hyperlink **that**.)
