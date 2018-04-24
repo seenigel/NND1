@@ -1,6 +1,10 @@
 # NND1 News Design
+http://bit.ly/NND1-newsdesign
 
 Okay, in previous sessions we've established how data and public records can enhance your reporting and we've analyzed data to find stories in numbers. Today we're taking a break from numbers to talk about another important aspect of news: story design.
+
+Session 1: https://github.com/seenigel/NND1/tree/master/spring-2018/
+Session 2: https://github.com/seenigel/NND1/tree/master/spring-2018/session2
 
 ## Question time:
 Here are two front pages from Sept. 12, 2001, the day after the World Trade Center in New York was destroyed in a terrorist attack. 
@@ -55,10 +59,12 @@ Most of the time, if you've got numerical information, the most straightforward 
 - And if all else fails, you can put the information in **datatable**
 
 # Tools
-## For charts: Datawrapper 
+## Datawrapper 
 -https://datawrapper.de
 ![Datawrapper Screenshot](images/datawrapper.png)
+
 *Datawrapper** is a website built for beginners that lets you make bar charts, pie charts, data tables, and country-level maps.
+
 - It's very easy to use. All you do is copy and paste in data from your spreadsheet and it will walk you through the steps to produce your chart or graphic.
 - When you're finished, Datawrapper gives you a link to the chart that you can then put in your story. (And if you're super fancy, you can take a screenshot of the chart and hyperlink **that**.)
 - Datawrapper asks you to make an account, but for now you can use my dummy account. **username:** nnddata@gmail.com, **password**: dataisgreat
@@ -69,7 +75,7 @@ If your data isn't numerical (let's say you've got a bunch of photographs, or au
 - Make a map story with Storymap.js
 - Create a before/after slider with Juxstapose.js
 
-# StorymapJS 
+## StorymapJS 
 - https://storymap.knightlab.com/
 ![StorymapJS Screenshot](images/storymap.png)
 [Example](https://www.dnainfo.com/new-york/20160919/chelsea/timeline-how-ahman-khan-rahami-was-found)
@@ -80,7 +86,7 @@ Storymap is a totally free website that lets you mark locations on a map and giv
 - When you're finished, you can either send users to the map itself, or you can get an embed code and display it on your site. 
 **Demo Time**: Create a storymap showing anything you want. 
 
-# JuxtaposeJS:
+## JuxtaposeJS:
 -  https://juxtapose.knightlab.com/
 ![Image Slider Screenshot](images/image_slider.png)
 - Example: https://www.theverge.com/2018/3/30/17179642/huawei-p20-pro-vs-pixel-2-xl-camera-comparison-low-light
@@ -94,16 +100,16 @@ This free tool does one thing: it takes two images and puts them on top of each 
 - Before: http://www.nigelchiwaya.com/wp-content/uploads/2017/04/cat_left.jpg
 - After: http://www.nigelchiwaya.com/wp-content/uploads/2017/04/cat_right.jpg
 
-
-Other tools
-# [TimelineJS](https://timeline.knightlab.com/)
+## TimelineJS
+- https://timeline.knightlab.com/
 ![Timeline JS Screenshot](images/timeline.png)
 [Example](https://www.dnainfo.com/new-york/20160826/jamaica/timeline-look-back-at-century-old-elmhurst-dairy-before-it-closes)
 
 This tool creates timelines that use user can step through. You can include photos and even videos from YouTube. It's powered by a Google spreadsheet, so you can even work on it anywhere.
 - Powered by Google spreadsheets, but has step-by-step directions.
 
-# [SoundciteJS](http://soundcite.knightlab.com/)
+## SoundciteJS
+- https://soundcite.knightlab.com/
 
 This is a free tool that lets you embed a sound clip inside text. The user then hears the audio when they click. (Think of it like a hyperlink for sound.) 
 
@@ -126,5 +132,4 @@ Further reading
 - What Chart Should I Use and Why? - https://docs.google.com/presentation/d/e/2PACX-1vROVkoZ2RNpQ6HI57ZC_zUcyIMW9a_3tO4RJsKmtjDKATg_i3E6gwi6-TUo0Z8GpjwKC8ZXBlYC3J7N/pub?start=false&loop=false&delayms=3000&slide=id.g313a992de3_0_1 - Handy guide on things to think about when visualizing data
 
 - The Wall Street Journal Guide to Information Graphics - https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281 - This is the charting bible at the Wall Street Journal. It was on my desk the first day I got there. Full of tips and advice on how to chart smart.
-- 
 - **Old NYC** - https://www.oldnyc.org/ - A repository of old photos of New York City hosted by the New York public library. Great for before and after comparisons.  
