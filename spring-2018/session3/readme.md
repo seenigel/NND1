@@ -3,8 +3,9 @@ http://bit.ly/nnd1-newsdesign
 
 Okay, in previous sessions we've established how data and public records can enhance your reporting and we've analyzed data to find stories in numbers. Today we're taking a break from numbers to talk about another important aspect of news: story design.
 
-Session 1: https://github.com/seenigel/NND1/tree/master/spring-2018/
-Session 2: https://github.com/seenigel/NND1/tree/master/spring-2018/session2
+**Session 1:** https://github.com/seenigel/NND1/tree/master/spring-2018/
+
+**Session 2:** https://github.com/seenigel/NND1/tree/master/spring-2018/session2
 
 ## Question time:
 Here are two front pages from Sept. 12, 2001, the day after the World Trade Center in New York was destroyed in a terrorist attack. 
@@ -62,6 +63,7 @@ Most of the time, if you've got numerical information, the most straightforward 
 # Tools
 ## Datawrapper 
 -https://datawrapper.de
+
 ![Datawrapper Screenshot](images/datawrapper.png)
 
 - *Datawrapper** is a website built for beginners that lets you make bar charts, pie charts, data tables, and country-level maps.
@@ -88,9 +90,15 @@ Storymap is a totally free website that lets you mark locations on a map and giv
 **Demo Time**: Create a storymap showing anything you want. 
 
 ## JuxtaposeJS:
+
 -  https://juxtapose.knightlab.com/
+
 ![Image Slider Screenshot](images/image_slider.png)
-- Example: https://www.theverge.com/2018/3/30/17179642/huawei-p20-pro-vs-pixel-2-xl-camera-comparison-low-light
+
+**Examples:** 
+- https://www.theverge.com/2018/3/30/17179642/huawei-p20-pro-vs-pixel-2-xl-camera-comparison-low-light
+- https://www.dnainfo.com/new-york/20160304/hells-kitchen-clinton/public-plaza-owned-by-luxury-complex-needs-makeover-architect-says/
+
 This free tool does one thing: it takes two images and puts them on top of each other so that readers can compare them by swiping back and forth. 
 - Great for showing a dramatic or subtle change
 - This is most often used for before-and-after comparisons of the same location.
